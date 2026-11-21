@@ -44,10 +44,6 @@ published at https://www.nyse.com/markets/hours-calendars (read 2026-10-13).
 Outside those years the clock says the holiday list is unknown.
 """
 
-import utils.clients
-import utils.http_session
-import utils.transport
-import utils.session
 import argparse
 import csv
 import datetime
